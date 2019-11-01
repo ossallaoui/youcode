@@ -1,2 +1,19 @@
 # youcode
-our schole
+our school
+
+
+
+
+
+
+
+
+
+
+
+ggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggg
+ggggggggggggggggggg
+gggggggggggg
+ggggggg
