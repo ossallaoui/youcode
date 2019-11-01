@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 hello world 
 
 
@@ -39,8 +39,3 @@ YouCode
 
 
 
-YouCode 
-=======
-hello world
-welcome 
->>>>>>> b2f165b7c599efa63b606dd67d37eb74eeb8b1c0
